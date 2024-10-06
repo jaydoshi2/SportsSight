@@ -1,0 +1,14 @@
+/traning/football-players-detection-1/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.env
+/output_videos
+/input_videos
+/yolov8m.pt
+/yolov8x.pt
+/runs/detect
+/runs
