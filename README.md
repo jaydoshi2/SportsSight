@@ -37,9 +37,9 @@ The following modules are used in this project:
 
 ## Datasets
 
-- [Kaggle Dataset](https://www.kaggle.com/competitions/d...)
-- [Video Link (Kaggle removed the videos)](https://drive.google.com/file/d/1t6ag...)
-- [Roboflow Football Dataset](https://universe.roboflow.com/roboflo...)
+- [Kaggle Dataset](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips)
+- [Video Link (Kaggle removed the videos)](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+- [Roboflow Football Dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
